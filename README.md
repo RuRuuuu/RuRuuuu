@@ -1,5 +1,5 @@
 ﻿# Hello there, WELCOME!!!
-  ![developerr.jpg](https://github.com/RuRuuuu/space-tourism/assets/110995961/66157a89-9f16-4064-926c-44ac468decbb)
+  
 
 # About Me
 
