@@ -1,5 +1,5 @@
 ﻿# Hello there, WELCOME!!!
- <img src="images/developerr.jpg">
+  <img src="images/developerr.jpg" alt="">
 
 # About Me
 
