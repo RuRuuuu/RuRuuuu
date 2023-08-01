@@ -1,5 +1,5 @@
 ﻿# Hello there, WELCOME!!!
-  <img src="images/developerr.jpg" alt="">
+  ![](images/developerr.jpg)
 
 # About Me
 
