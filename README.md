@@ -7,11 +7,13 @@ I'm a Frontend Developer with a passion for creating user-friendly and visually 
 
 # Fun Facts
 
-1.I love to read
+1.I love to read  📚
 
-2.I am updating myself on all latest technologies in town
+2.I am updating myself on all latest technologies in town 👩‍💻🖥
 
-3.I am actively seeking remote job opportunities that align with my skillset.
+3.I am actively seeking remote job opportunities that align with my skillset.😊
+
+4.I love Cats 😻🐈
 
 # My Contact
 
