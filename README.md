@@ -1,7 +1,7 @@
 
 
  
- # Hello there, WELCOME!!!
+ # Hello Human, WELCOME!!!
   
 
 # About Me
