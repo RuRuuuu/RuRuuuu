@@ -6,7 +6,7 @@
 
 # About Me
 
-I'm a Frontend Developer who is enthusiastic about creating user-friendly and visually engaging web applications. Alongside my passion for web development, I am also deeply intrigued by the realm of Mobile Development. As I continue to pursue my career, I aspire to expand my skill set and transition into becoming a proficient Mobile Developer, enriching my abilities in both web and mobile technologies.
+I'm a Frontend Developer who is enthusiastic about creating user-friendly and visually engaging web applications. Alongside my passion for web development, I am also deeply intrigued by the realm of Game Development. As I continue to pursue my career, I aspire to expand my skill set and transition into becoming a proficient Game Developer, enriching my abilities in both web and game technologies.
 
 # Fun Facts
 
