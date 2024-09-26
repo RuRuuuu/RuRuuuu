@@ -11,12 +11,12 @@ I'm a Frontend Developer who is enthusiastic about creating user-friendly and vi
 # Fun Facts
 
 1. I love to read  📚
+   
+2. I love to develop games
 
-2. I am updating myself on all latest technologies in town 👩‍💻🖥
+4. Constantly updating myself on all latest technologies in town 👩‍💻🖥
 
-3. I am actively seeking remote job opportunities that align with my skillset.😊
-
-4. I love Cats 😻🐈
+5. I love Cats 😻🐈
 
 # My Contact
 
